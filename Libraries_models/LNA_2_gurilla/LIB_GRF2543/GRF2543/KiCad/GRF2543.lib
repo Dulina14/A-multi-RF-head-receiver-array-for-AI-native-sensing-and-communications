@@ -1,0 +1,28 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#SamacSys ECAD Model GRF2543
+#/13227531/1624870/2.50/7/3/Integrated Circuit
+DEF GRF2543 IC 0 30 Y Y 1 F N
+F0 "IC" 1650 300 50 H V L CNN
+F1 "GRF2543" 1650 200 50 H V L CNN
+F2 "SON50P150X150X45-7N" 1650 100 50 H I L CNN
+F3 "https://www.guerrilla-rf.com/products/DataSheet?sku=2543&file_name=GRF2543DS.pdf" 1650 0 50 H I L CNN
+F4 "RF Amplifier High Gain, LNA with Bypass; IEEE 802.11 a/n/ac/p, 4.9 - 6.0 GHz" 1650 -100 50 H I L CNN "Description"
+F5 "0.45" 1650 -200 50 H I L CNN "Height"
+F6 "459-GRF2543" 1650 -300 50 H I L CNN "Mouser Part Number"
+F7 "https://www.mouser.co.uk/ProductDetail/Guerrilla-RF/GRF2543?qs=PqoDHHvF64%2FihZz%2FtUpOTQ%3D%3D" 1650 -400 50 H I L CNN "Mouser Price/Stock"
+F8 "Guerrilla RF" 1650 -500 50 H I L CNN "Manufacturer_Name"
+F9 "GRF2543" 1650 -600 50 H I L CNN "Manufacturer_Part_Number"
+DRAW
+X VE_N/BYPASS 1 0 0 200 R 50 50 0 0 P
+X GND/NC_1 2 0 -100 200 R 50 50 0 0 P
+X RF_IN 3 0 -200 200 R 50 50 0 0 P
+X EP 7 900 -700 200 U 50 50 0 0 P
+X VDD 6 1800 0 200 L 50 50 0 0 P
+X GND/NC_2 5 1800 -100 200 L 50 50 0 0 P
+X RF_OUT 4 1800 -200 200 L 50 50 0 0 P
+P 5 0 1 6 200 100 1600 100 1600 -500 200 -500 200 100 N
+ENDDRAW
+ENDDEF
+#
+#End Library

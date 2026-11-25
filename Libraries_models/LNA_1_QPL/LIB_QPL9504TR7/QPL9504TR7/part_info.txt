@@ -1,0 +1,9 @@
+Manufacturer=Qorvo
+PartNumber=QPL9504TR7
+PartCategory=Integrated Circuit
+PackageCategory=Small Outline No-lead
+PinCount=9
+Version=4.1
+Released=2022-01-28 13:14:50
+Downloaded=2026-10-27 16:41:28
+3D=Y

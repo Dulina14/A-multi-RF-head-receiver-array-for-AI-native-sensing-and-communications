@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART '1812CS_333XJLB'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "COILCRAFT", "1812CS-333XJLB" (!) = "", "INDC5038X343N", "Inductors Chip", "994-1812CS-333XJLB", "https://www.mouser.com/Search/Refine.aspx?Keyword=994-1812CS-333XJLB", "Fixed Inductors 1812CS AEC-Q200 33 uH 5 % 0.15 A", "https://componentsearchengine.com/Datasheets/1/1812CS-333XJLB.pdf", "3.43 mm"
+END_PART
+
+END.

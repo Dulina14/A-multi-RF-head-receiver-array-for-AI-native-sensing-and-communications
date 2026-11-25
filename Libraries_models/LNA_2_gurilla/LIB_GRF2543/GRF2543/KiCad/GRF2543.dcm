@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP GRF2543
+D RF Amplifier High Gain, LNA with Bypass; IEEE 802.11 a/n/ac/p, 4.9 - 6.0 GHz
+K
+F https://www.guerrilla-rf.com/products/DataSheet?sku=2543&file_name=GRF2543DS.pdf
+$ENDCMP
+#
+#End Doc Library

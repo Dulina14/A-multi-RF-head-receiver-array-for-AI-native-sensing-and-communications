@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'GRF2543'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Guerrilla RF", "GRF2543" (!) = "", "SON50P150X150X45-7N", "Small Outline No-lead", "459-GRF2543", "https://www.mouser.co.uk/ProductDetail/Guerrilla-RF/GRF2543?qs=PqoDHHvF64%2FihZz%2FtUpOTQ%3D%3D", "RF Amplifier High Gain, LNA with Bypass; IEEE 802.11 a/n/ac/p, 4.9 - 6.0 GHz", "https://www.guerrilla-rf.com/products/DataSheet?sku=2543&file_name=GRF2543DS.pdf", "0.45 mm"
+END_PART
+
+END.

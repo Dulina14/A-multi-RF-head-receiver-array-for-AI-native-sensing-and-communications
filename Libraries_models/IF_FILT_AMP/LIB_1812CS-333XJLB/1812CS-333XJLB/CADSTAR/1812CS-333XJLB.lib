@@ -1,0 +1,16 @@
+.1812CS-333XJLB :1 ;Fixed Inductors 1812CS AEC-Q200 33 uH 5 % 0.15 A
+INDC5038X343N
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN 1812CS-333XJLB
+~!Mouser Part Number (994-1812CS-333XJLB)
+~!Link Mouser Price/Stock (https://www.mouser.com/Search/Refine.aspx?Keyword=994-1812CS-333XJLB)
+~!Manufacturer_Name (COILCRAFT)
+~!Manufacturer_Part_Number (1812CS-333XJLB)
+~!Link Datasheet (https://componentsearchengine.com/Datasheets/1/1812CS-333XJLB.pdf)
+~!Height (3.43mm)
+~!3D_Model (1812CS-333XJLB)
+"1812CS-333XJLB"
+1.1!U 2.1!U 

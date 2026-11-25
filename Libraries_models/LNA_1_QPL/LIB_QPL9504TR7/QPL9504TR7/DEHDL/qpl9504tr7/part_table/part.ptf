@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'QPL9504TR7'
+CLASS = IC
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Qorvo", "QPL9504TR7" (!) = "", "SON50P200X200X90-9N-D", "Small Outline No-lead", "772-QPL9504TR7", "https://www.mouser.co.uk/ProductDetail/Qorvo/QPL9504TR7?qs=iLbezkQI%252BsiSWi8SJWi3jA%3D%3D", "", "", "Ultra Low Noise, Flat Gain LNA", "https://www.qorvo.com/products/d/da007934", "0.9 mm"
+END_PART
+
+END.

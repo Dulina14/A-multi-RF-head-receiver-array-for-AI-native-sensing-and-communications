@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "1812CS-333XJLB"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2019-08-27-11:53:18)
+    (mountForm default
+        (footprintRef "INDC5038X343N")
+        (spec "System")
+    )
+)

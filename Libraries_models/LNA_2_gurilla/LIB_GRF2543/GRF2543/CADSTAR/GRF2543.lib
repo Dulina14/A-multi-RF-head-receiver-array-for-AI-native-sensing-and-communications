@@ -1,0 +1,16 @@
+.GRF2543 :1 ;RF Amplifier High Gain, LNA with Bypass; IEEE 802.11 a/n/ac/p, 4.9 - 6.0 GHz
+SON50P150X150X45-7N
+*STM IC
+*NGS
+*PLB 1="VE N/BYPASS" 2="GND/NC_1" 3="RF_IN" 4="RF_OUT" 5="GND/NC_2" 6="VDD" 7="EP"
+*MXP 7
+*DFN GRF2543
+~!Mouser Part Number (459-GRF2543)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Guerrilla-RF/GRF2543?qs=PqoDHHvF64%2FihZz%2FtUpOTQ%3D%3D)
+~!Manufacturer_Name (Guerrilla RF)
+~!Manufacturer_Part_Number (GRF2543)
+~!Link Datasheet (https://www.guerrilla-rf.com/products/DataSheet?sku=2543&file_name=GRF2543DS.pdf)
+~!Height (0.45mm)
+~!3D_Model (GRF2543)
+GRF2543
+1.1!U 2.1!U 3.1!U 7.1!U 6.1!U 5.1!U 4.1!U 

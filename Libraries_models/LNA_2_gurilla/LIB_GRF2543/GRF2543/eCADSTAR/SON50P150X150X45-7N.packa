@@ -1,0 +1,13 @@
+(unit MM)
+
+(package "GRF2543"
+    (type UNDEF)
+    (uver 2)
+    (cuser "SamacSys")
+    (uuser "SamacSys")
+    (utime 2022-03-23-14:20:00)
+    (mountForm default
+        (footprintRef "SON50P150X150X45-7N")
+        (spec "System")
+    )
+)
