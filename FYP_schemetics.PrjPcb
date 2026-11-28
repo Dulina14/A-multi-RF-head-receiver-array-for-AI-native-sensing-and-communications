@@ -103,7 +103,7 @@ GenerateClassCluster=0
 DocumentUniqueId=ARSYAYCI
 
 [Document4]
-DocumentPath=LNA_0.8_1.6GHz.SchDoc
+DocumentPath=LNA_0.8_1.6_GHz.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -120,7 +120,7 @@ GenerateClassCluster=0
 DocumentUniqueId=RDRINTTV
 
 [Document5]
-DocumentPath=LNA_1_3GHz.SchDoc
+DocumentPath=LNA_1_3_GHz.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
